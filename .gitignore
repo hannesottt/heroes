@@ -107,4 +107,4 @@ dist
 .vscode-test
 
 # Compiled JS Code
-*.js
+server.js
